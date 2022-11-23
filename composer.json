@@ -2,6 +2,6 @@
     "name": "johnmccabe/vuln-dep-php",
     "type": "project",
     "require": {
-        "smarty/smarty": "4.0.0"
+        "smarty/smarty": "4.3.0"
     }
 }
